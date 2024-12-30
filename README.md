@@ -26,4 +26,3 @@ Once we have a well-performing SVC model, we can use it to predict the quality o
 In summary, the white wine quality prediction model based on the SVC algorithm involves splitting the data into training and test sets, scaling the features, training the SVC model on the training set, evaluating its performance on the test set, and optionally performing hyperparameter tuning to improve performance. The final trained model can then be used to predict the quality of new white wines.
 
 
-## **Internship Project - YBI Foundation**
